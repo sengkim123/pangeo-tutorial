@@ -14,7 +14,7 @@ distributed:
 
 kubernetes:
   count:
-    max: 40
+    max: 500
   worker-template:
     metadata:
     spec:
